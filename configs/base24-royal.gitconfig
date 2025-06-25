@@ -8,3 +8,7 @@
 [delta]
     syntax-theme = "ansi"
     light = false
+    minus-style = reverse "#90274b"
+    minus-emph-style = reverse "#664d96"
+    plus-style = reverse "#23801c"
+    plus-emph-style = reverse "#664d96"
